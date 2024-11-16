@@ -1,0 +1,1 @@
+{pico_CTF_format_is_fun}
