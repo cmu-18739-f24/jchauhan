@@ -1,6 +1,6 @@
 # jchauhan
 
-- Namespace: picoctf/examples
+- Namespace: picoctf/18739c
 - ID: jchauhan
 - Type: custom
 - Category: Binary Exploitation
@@ -88,6 +88,6 @@ Examining source code to identify functionality
 
 ## Attributes
 
-- author: LT 'syreal' Jones
+- author: jchauhan
 - organization: picoCTF
 - event: picoCTF Problem Developer Training
