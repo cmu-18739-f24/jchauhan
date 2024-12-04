@@ -1,7 +1,7 @@
 # Chinese Remainder Theorem
 
 - Namespace: picoctf/18739f24
-- ID: jchauhan
+- ID: chinese-remainder-theorem
 - Type: custom
 - Category: Cryptography
 - Points: 200

@@ -1,7 +1,7 @@
 # Format Strings Fun
 
 - Namespace: picoctf/18739f24
-- ID: jchauhan
+- ID: format-strings-fun
 - Type: custom
 - Category: Binary Exploitation
 - Points: 100
@@ -84,7 +84,7 @@ Examining source code to identify functionality
 
 ## Tags
 
-- Binary Exploitation
+- C
 
 ## Attributes
 
