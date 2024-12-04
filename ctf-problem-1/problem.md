@@ -90,4 +90,4 @@ Examining source code to identify functionality
 
 - author: Jai Chauhan (jchauhan)
 - organization: picoCTF
-- event: picoCTF Problem Developer Training
+- event: 18739 CTF

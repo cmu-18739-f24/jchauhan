@@ -142,4 +142,4 @@ Examining source code to identify functionality
 
 - author: Jai Chauhan (jchauhan)
 - organization: picoCTF
-- event: Hacking 101
+- event: 18739 CTF
