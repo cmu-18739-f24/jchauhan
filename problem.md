@@ -1,10 +1,10 @@
-# jchauhan
+# Format Strings Fun
 
 - Namespace: picoctf/18739f24
 - ID: jchauhan
 - Type: custom
 - Category: Binary Exploitation
-- Points: 1
+- Points: 100
 - Templatable: yes
 - MaxUsers: 1
 
