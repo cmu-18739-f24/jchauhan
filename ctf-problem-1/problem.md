@@ -84,10 +84,10 @@ Examining source code to identify functionality
 
 ## Tags
 
-- python
+- Binary Exploitation
 
 ## Attributes
 
-- author: jchauhan
+- author: Jai Chauhan (jchauhan)
 - organization: picoCTF
 - event: picoCTF Problem Developer Training
